@@ -3,7 +3,9 @@
 sudo apt update --assume-yes
 sudo apt upgrade --assume-yes
 sudo apt-get install --assume-yes libmysqlclient-dev
+# General Files 
 sudo apt-get install --assume-yes zip 
+sudo apt-get install --assume-yes emacs 
 # NFS for remote file directory
 sudo apt-get install --assume-yes nfs-common
 # Python things 
