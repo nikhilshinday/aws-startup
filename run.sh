@@ -1,7 +1,8 @@
 #!/bin/bash
 
-./install.sh
+./pkg_install.sh
 ./python.sh
 ./efs_mount.sh
-./geopredict.sh
+./shortcuts.sh
 ./github_keys.sh
+
