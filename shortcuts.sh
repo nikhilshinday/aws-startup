@@ -1,3 +1,4 @@
+#!/bin/bash
 # GeoPredict-Specific Shortcuts and Easy Virtualenv activation 
 pushd . 
 cd ~

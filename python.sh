@@ -1,3 +1,4 @@
+#!/bin/bash
 pushd . 
 cd ~
 virtualenv py2
