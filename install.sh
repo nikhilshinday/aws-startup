@@ -3,7 +3,7 @@
 sudo apt update --assume-yes
 sudo apt upgrade --assume-yes
 sudo apt-get install --assume-yes libmysqlclient-dev
-sudo apt-get install mysql-client-core-5.7
+sudo apt-get install --assume-yes mysql-client-core-5.7
 # General Files 
 sudo apt-get install --assume-yes zip 
 sudo apt-get install --assume-yes emacs 
