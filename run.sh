@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./pkg_install.sh
+./install.sh
 ./python.sh
 ./efs_mount.sh
 ./shortcuts.sh
