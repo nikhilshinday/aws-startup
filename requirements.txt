@@ -25,3 +25,4 @@ urllib3
 wheel
 jupyter
 pandas
+pyPdf
