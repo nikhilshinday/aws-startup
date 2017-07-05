@@ -2,7 +2,7 @@
 
 sudo apt update --assume-yes
 sudo apt upgrade --assume-yes
-packagelist = (
+packagelist=(
     libmysqlclient-dev
     mysql-client-core-5.7
     zip
@@ -16,4 +16,4 @@ packagelist = (
     default-jre
 )
 
-sudo apt-get install ${packagelist[@]}
+sudo apt-get install --assume-yes ${packagelist[@]}
