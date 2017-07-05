@@ -26,3 +26,5 @@ wheel
 jupyter
 pandas
 pyPdf
+pydotplus
+tabula-py
