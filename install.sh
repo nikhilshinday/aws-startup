@@ -17,4 +17,4 @@ packagelist=(
     tmux
 )
 
-sudo apt-get install --assume-yes $packagelist[@]
+sudo apt-get install --assume-yes ${packagelist[@]}
