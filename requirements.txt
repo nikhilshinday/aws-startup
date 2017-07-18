@@ -28,3 +28,4 @@ pandas
 pyPdf
 pydotplus
 tabula-py
+boto3
